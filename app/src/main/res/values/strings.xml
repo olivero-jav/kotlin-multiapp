@@ -22,4 +22,8 @@
 
     <string name="title_obesity">Obesidad</string>
     <string name="description_obesity">Estás MUY por encima del peso óptimo para tu altura.</string>
+
+    <!--TODOAPP-->
+    <string name="todo_title">Bienvenido, j</string>
+    <string name="todo_categories">Categorías:</string>
 </resources>
